@@ -1,0 +1,12 @@
+{
+    "attributes" : [ {
+      "trait_type" : "Breed",
+      "value" : "Maltipoo"
+    }, {
+      "trait_type" : "Eye color",
+      "value" : "Mocha"
+    } ],
+    "description" : "The world's most eyecatchy color combination.",
+    "image" : "https://gateway.pinata.cloud/ipfs/QmcHcRqwPMChbyyagjpWjGswFy91cNuXZ44jeWhSBZqUpv",
+    "name" : "Ramses"
+}
